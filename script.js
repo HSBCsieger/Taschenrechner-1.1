@@ -37,7 +37,7 @@ function ent(x) {
   else {
     
       screenvalue += x;
-      screen.value += ((x.replace('**','×××')).replace('/','÷').replace('*','×'));
+      screen.value += ((x.replace('**','××')).replace('/','÷').replace('*','×'));
       
     }
   
